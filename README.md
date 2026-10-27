@@ -1,3 +1,5 @@
+> **Archived.** RichView continues at [richview.ai](https://richview.ai). This repository is kept read-only for reference.
+
 # RichView Documentation
 
 Welcome to the RichView Platform documentation repository.
